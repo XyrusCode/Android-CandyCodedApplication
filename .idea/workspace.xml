@@ -8,8 +8,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6c345956-bed5-4250-b0d4-60219f25c44e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +29,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Xyrus" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iKQQEBaZ9WSfPiTudHkoOwbNqh" />
@@ -116,7 +120,19 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added code for Share a Candy with an Intent" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added code for Share a Candy with an Intent" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="443" y="62" width="374" height="584" key="#com.intellij.ide.util.MemberChooser" timestamp="1601756485549">
+      <screen x="0" y="28" width="1280" height="772" />
+    </state>
+    <state x="443" y="62" width="374" height="584" key="#com.intellij.ide.util.MemberChooser/0.28.1280.772@0.28.1280.772" timestamp="1601756485549" />
+    <state x="279" y="28" width="991" height="772" key="CommitChangelistDialog2" timestamp="1601757206913">
+      <screen x="0" y="28" width="1280" height="772" />
+    </state>
+    <state x="279" y="28" width="991" height="772" key="CommitChangelistDialog2/0.28.1280.772@0.28.1280.772" timestamp="1601757206913" />
     <state x="293" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1601753960892">
       <screen x="0" y="28" width="1280" height="772" />
     </state>
